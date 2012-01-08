@@ -1,1 +1,2 @@
-#sidebar {display: none !important;}
+/*Hide 'Getting started', 'Network overview' and 'Activity stream'. 'Activity stream' is fake, it does not show realtime information" */
+.yj-activity-ticker, #network-type, #getting-started-wrapper {display: none !important;}
